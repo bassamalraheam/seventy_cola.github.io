@@ -32,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7f4e81e14f1982a5df7d7323b42efba9
 "assets/assets/dashboard_icon/report_off.svg": "da611b2a2983795787a766add3cc8947",
 "assets/assets/dashboard_icon/report_on.svg": "3757df087207c0bb99d88843fe524820",
 "assets/assets/icons/big-logo.svg": "438ae85dda52f6b70e74c988d7cc8b45",
-"assets/assets/icons/bill.svg": "9347e12504e8e0a5af786793c684997d",
+"assets/assets/icons/bill.svg": "21a819a2a26b717e24272a79bbe9ffba",
 "assets/assets/icons/Camera.svg": "95b398e25129bcca424b1f547045442d",
 "assets/assets/icons/dolar%25202.svg": "cbe7bacca9621c4543355eb67e1e2e4c",
 "assets/assets/icons/dolar.svg": "cbe7bacca9621c4543355eb67e1e2e4c",
@@ -736,9 +736,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7f4e81e14f1982a5df7d7323b42efba9
 "icons/Icon-512.png": "198deef0bc7c3481fcbfc154fcfdf66f",
 "icons/Icon-maskable-192.png": "0ae7ca77c4e3a6f3dad8d4a8a8a4e47c",
 "icons/Icon-maskable-512.png": "198deef0bc7c3481fcbfc154fcfdf66f",
-"index.html": "33be7aed967439764ad795aa2a21751e",
-"/": "33be7aed967439764ad795aa2a21751e",
-"main.dart.js": "ee6070c4ae57248c19d6f44f3b9c616e",
+"index.html": "db38a806a3f4c4da4d3e1deac8d1bb62",
+"/": "db38a806a3f4c4da4d3e1deac8d1bb62",
+"main.dart.js": "79ea610a0c750662f1055a2d791d6ecb",
 "manifest.json": "31cedee589ea7b7a3917cb2c3015c82e",
 "version.json": "2ef1916409b84b698b6bddc1673b3aec"};
 // The application shell files that are downloaded before a service worker can
